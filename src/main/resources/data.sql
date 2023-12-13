@@ -1,0 +1,1 @@
+insert into todo(DESCRIPTION , DONE, TARGET_DATE, USERNAME, ID) values ('Learn Devops for free', false, CURRENT_DATE(), 'Ismael', 4)
